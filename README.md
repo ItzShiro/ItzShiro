@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ItzShiro
-- 👀 I’m interested in CSS and HTML
-- 🌱 I’m currently learning what im interested in
+Kotlety Schabowe
