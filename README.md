@@ -1,3 +1,4 @@
 Hi There, Im Aleks!
-I Specialize in HTML, CSS and JS but i also know a bit of GdScript 
-I have few projects on my github but if you want to use them then go on :)
+Im Mainly Front-end "Developer" specializing in HTML/CSS/JS.
+I also contributed to some small projects which were mainly games in godot and websites for their projects.
+Everything on my profile is 100% open source and free to use, no need to ask or anything, just go on.
